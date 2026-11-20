@@ -76,9 +76,11 @@ It opens at `http://localhost:8501`.
 ## 📁 Files
 
 ```
-├── app.py              # Streamlit app
-├── requirements.txt    # Python libraries
-└── README.md           # This file
+SG-Food-Delivery-Analyzer/
+├── app.py
+├── requirements.txt
+├── README.md
+└── SG_Food_Delivery_Analyzer.ipynb
 ```
 
 ---
