@@ -11,8 +11,7 @@ An interactive data science app that analyses up to **1 million mock food delive
 
 Built as a mini project to apply what I learned in the **NVIDIA Deep Learning Institute** course **Fundamentals of Accelerated Data Science**.
 
-🔗 **Live demo:** [your-app.streamlit.app](https://your-app.streamlit.app) *(replace with your Streamlit link)*
-
+🔗 **Live demo:**https://sg-food-delivery-analyzer.streamlit.app/**
 ---
 
 ## ✨ Features
