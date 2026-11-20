@@ -57,18 +57,6 @@ The sidebar shows which engine is running.
 | cuML: K-Means, DBSCAN, KNN | Kitchens and Hotspots tabs |
 | XGBoost on GPU (`device="cuda"`) | Predict late tab |
 
----
-
-## 📈 Results
-
-| Metric | Result |
-| --- | --- |
-| Memory saved by smaller dtypes | __ % |
-| XGBoost ROC AUC | __ |
-| Most important features | __ |
-| Late rate: dry vs raining | __ % vs __ % |
-
-*(Fill these in from the app.)*
 
 ---
 
